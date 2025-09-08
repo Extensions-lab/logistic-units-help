@@ -1,7 +1,6 @@
 # Logistic Unit Type
 
-Logistic Unit Type is a class a Logistic Unit belongs to. For example, it might be box, pallet, container, truck or any other abstract kind of logistic unit one could imagine.
-Logistic Unit Type is an attribute/template of a Logistic Unit that must be determined when Logistic Unit is being created.
+Logistic Unit Type is a master data entity that defines standardized container specifications for logistics operations. It serves as a template for creating actual logistic units (containers, pallets, trailers, etc.) by specifying their physical dimensions (internal/external length, width, height), weight capacities (tare, payload, maximum), volume limits, and operational constraints. The entity includes control settings for enforcing volume, weight, and footage limits during loading, temperature control capabilities, loading type preferences, and mixing rules for source documents and locations. It also manages numbering series for unit creation and SSCC (Serial Shipping Container Code) assignment, making it a comprehensive blueprint for logistics container management that ensures consistent handling and compliance across warehouse operations.
 
 ![Setup Image](resources/logisticunittype/pics/logisticunittype1.png)
 

@@ -78,16 +78,9 @@ This documentation is available directly from the Logistic Units extension.
 
 ## Terms
 
-Logistic Unit is an item that is used for transportation or storage and needs to be managed through the supply chain. It could be a box or a pallet containing a few products, or an intermodal container with several pallets. The logistic unit includes information such as SSCC numbers, serial numbers, and total quantity of items that can be added to sales, purchase and warehouse documents.
+[Logistic Unit](logisticunit.md).
 
-Logistic Unit is identified by a combination of:
-
-- a carrier, such as a pallet, which is uniquely identified worldwide by means of a Global Returnable Asset Identifier (GRAI).
-- and products/items uniquely identified worldwide using Global Trade Item Numbers (GTIN’s).
-
-![Setup Image](resources/logisticunit/pics/logisticunit.png)
-
-SSCC - Serial Shipping Container Code can be used by companies to identify a logistic unit, which can be any set of trade items packed together for storage and/or transportation purposes; for example, a case, pallet or parcel.
+[Logistic Unit Type](logisticunittype.md).
 
 ## Operations
 
