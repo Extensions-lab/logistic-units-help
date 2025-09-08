@@ -1,6 +1,6 @@
 # Logistic Units for Microsoft Dynamics 365 Business Central
 
-Help and Documentation of the [Logistic Units on AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.extensionsforcelimited1647259189111%7CAID.logisticunits%7CPAPPID.c383b772-f29f-4c05-b1ac-7801c76750af?tab=Overview)
+Help and Documentation of the [Logistic Units on AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.extensionsforcelimited1647259189111%7CAID.logisticunits%7CPAPPID.c383b772-f29f-4c05-b1ac-7801c76750af?tab=Overview). 
 
 ## Introduction
 
@@ -11,6 +11,12 @@ Take your warehousing to the next level with this powerful new feature. Track yo
 
 Logistic Units extension is an opensource project [Logistic Units](https://github.com/Extensions-lab/logistic-units)
 You can create your own solutions based on the Logistic Units extension.
+
+## Availability
+
+This documentation is available directly from the Logistic Units extension.
+
+![Documentation inside Logistic Units extension](resources/logisticunit/pics/logisticunit0.png)
 
 ## Prerequisites
 
